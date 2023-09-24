@@ -1,0 +1,7 @@
+blobfile==2.0.2
+filelock==3.12.4
+lxml==4.9.3
+numpy==1.26.0
+orjson==3.9.7
+pycryptodomex==3.19.0
+urllib3==2.0.5
